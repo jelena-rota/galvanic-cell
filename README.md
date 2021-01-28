@@ -1,1 +1,1 @@
-# <a href="https://ghcdn.rawgit.org/jelena-rota/galvanic-cell/master/galvanic-cell.html">Galvanic Cell Animation</a>
+# <a href="https://cdn.statically.io/gh/jelena-rota/galvanic-cell/d8644935/galvanic-cell.html">Galvanic Cell Animation</a>
