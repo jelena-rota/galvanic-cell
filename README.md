@@ -1,6 +1,6 @@
 **About**
 
-Electrochemical cell animation using JavaScript and Paper.js framework is a learning tool for electrochemistry students, that helps better understand processes taking place in the electrochemical cell.
+Electrochemical cell animation made using JavaScript and Paper.js framework is a learning tool for electrochemistry students that helps better understand processes taking place in the electrochemical cell.
 <br></br>
 
 **Animation link**
